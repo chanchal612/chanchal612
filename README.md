@@ -1,5 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&fontSize=50&fontColor=fff"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8E3FF,100:D6F0FF&height=220&section=header&fontSize=50&fontColor=2C3E50&animation=fadeIn&fontAlignY=38"/>
+</p>
 <h2 align="center">
+<p align="center">
+  <img src="https://github.com/chanchal612.png" width="200" height="200">
+</p>
   
 Hi , I'm Chanchal 👋
 </h1>
@@ -12,6 +17,10 @@ Building projects, solving problems, and learning every day.
 
 <a href="www.linkedin.com/in/chanchal-chauhan-a5b94b389">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge">
+</a>
+
+<a href="https://github.com/chanchal612">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:chanchalchauhan612@gmail.com">
@@ -100,7 +109,7 @@ Building projects, solving problems, and learning every day.
   <img src="https://streak-stats.demolab.com?user=chanchal612&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📁 Featured Projects
+## 📁 Projects
 
 
 
@@ -112,6 +121,6 @@ THANK YOU
 ⭐ Drop a star if you like my work!
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8E3FF,100:D6F0FF&height=120&section=footer"/>
 </p>
 
